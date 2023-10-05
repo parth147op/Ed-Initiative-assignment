@@ -53,8 +53,9 @@ The application makes use of a custom `ChatException` for handling chat-specific
 A simple logging mechanism is provided to log informational, warning, and error messages. The current implementation displays logs in the console, but this can be extended to write logs to files.
 
 ## Screenshots of the Project
-1. Input
-   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/41eefa51-f078-4ec9-9c41-14e4b7c6969c) 
-2. Output
-   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/975be654-544c-490b-8329-526340d55797)
+1. Output
+   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/88596358-fbe2-415d-b284-786b4e89ef28)
+   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/757e1f95-7c38-4577-82ab-1839d01d7a1a)
+
+
 
