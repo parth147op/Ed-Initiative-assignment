@@ -59,7 +59,3 @@ A simple logging mechanism is provided to log informational, warning, and error 
    ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/757e1f95-7c38-4577-82ab-1839d01d7a1a)
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 78b7837b284cb71ad99642c31abbcb087254cb21
