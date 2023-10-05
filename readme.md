@@ -4,6 +4,7 @@
 This project is a simple real-time chat application where users can join or create chat rooms. The core functionalities include creating/joining chat rooms, sending/receiving messages, and listing active users. The program also supports optional features like private messaging and message history.
 
 ## Features
+- **Dynamic User Input** : Users can dynamically enter their usernames and the chat room ID they wish to join or create.
 - **Join/Create Chat Rooms:** Users can join existing chat rooms or create new ones by providing a unique room ID.
 - **Send/Receive Messages:** Users can send and receive messages in real-time within a chat room.
 - **Active Users List:** The application can display a list of active users in a chat room.
@@ -58,3 +59,7 @@ A simple logging mechanism is provided to log informational, warning, and error 
    ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/757e1f95-7c38-4577-82ab-1839d01d7a1a)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 78b7837b284cb71ad99642c31abbcb087254cb21
