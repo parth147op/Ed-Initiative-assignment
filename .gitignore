@@ -1,0 +1,14 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+
+# Visual Studio Code directories (if you're using VS Code)
+.vscode/
+
+# Any other files or directories you want to exclude
+# For example, if you had a build directory:
+# build/
+
+# Backup files
+*~
