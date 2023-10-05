@@ -17,6 +17,9 @@ The application is designed using several design patterns and principles:
 - **Adapter Pattern:** The system can work with different types of client communication protocols (like WebSocket, HTTP) using adapters.
 - **SOLID Principles:** The application strives to adhere to the SOLID principles for OOP design.
 
+## UML Diagram
+![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/a3f0d36f-d646-4f5a-a60a-5e4dfca77953)
+
 ## Directory Structure
 - **Root:** Contains main application logic, logger, and exception handling.
   - `.vscode`: Configuration for VSCode (if used).
