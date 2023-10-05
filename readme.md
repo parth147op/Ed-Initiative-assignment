@@ -48,9 +48,3 @@ The application makes use of a custom `ChatException` for handling chat-specific
 
 ## Logging
 A simple logging mechanism is provided to log informational, warning, and error messages. The current implementation displays logs in the console, but this can be extended to write logs to files.
-
-## Future Enhancements
-- Implement actual real-time communication using WebSockets or another suitable protocol.
-- Enhance error handling with more specific exception types.
-- Implement a user authentication system for enhanced security.
-- Provide message encryption to secure user messages.
