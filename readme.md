@@ -17,6 +17,9 @@ The application is designed using several design patterns and principles:
 - **Adapter Pattern:** The system can work with different types of client communication protocols (like WebSocket, HTTP) using adapters.
 - **SOLID Principles:** The application strives to adhere to the SOLID principles for OOP design.
 
+## UML Diagram
+![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/a3f0d36f-d646-4f5a-a60a-5e4dfca77953)
+
 ## Directory Structure
 - **Root:** Contains main application logic, logger, and exception handling.
   - `.vscode`: Configuration for VSCode (if used).
@@ -49,8 +52,9 @@ The application makes use of a custom `ChatException` for handling chat-specific
 ## Logging
 A simple logging mechanism is provided to log informational, warning, and error messages. The current implementation displays logs in the console, but this can be extended to write logs to files.
 
-## Future Enhancements
-- Implement actual real-time communication using WebSockets or another suitable protocol.
-- Enhance error handling with more specific exception types.
-- Implement a user authentication system for enhanced security.
-- Provide message encryption to secure user messages.
+## Screenshots of the Project
+1. Output
+   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/88596358-fbe2-415d-b284-786b4e89ef28)
+   ![image](https://github.com/parth147op/Ed-Initiative-assignment/assets/75001812/757e1f95-7c38-4577-82ab-1839d01d7a1a)
+
+

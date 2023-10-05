@@ -45,6 +45,10 @@ public:
         return roomManager->getChatRoom(roomId).getMessages();
     }
 
+    const User& getCurrentUser() const {
+        return currentUser;
+    }
+    
     set<string> getActiveUsers(const string& roomId) {
         return roomManager->getChatRoom(roomId).getActiveUsers();
     }
